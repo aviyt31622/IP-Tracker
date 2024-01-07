@@ -17,9 +17,9 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/HunxByts/GhostTrack.git
-cd GhostTrack
+git clone https://github.com/aviyt31622/IP-Tracker.git
+cd Ip-Tracker
 pip3 install -r requirements.txt
-python3 GhostTR.py
+python3 Aviyt.py
 ```
 
